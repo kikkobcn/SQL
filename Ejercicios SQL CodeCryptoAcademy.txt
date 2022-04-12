@@ -1,0 +1,4 @@
+Hola
+todos los ejercicios SQL estan en mi repositorio SQL
+
+https://github.com/kikkobcn/SQL
