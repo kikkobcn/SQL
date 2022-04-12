@@ -1,3 +1,0 @@
-/* pgadmin.jvh.kfs.es   postgres lector  lector  5433  usr01*/
-
-SELECT * from orders
